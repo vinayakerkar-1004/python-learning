@@ -1,0 +1,5 @@
+# a = (1, 2, 3)
+# a = ()
+a = (1,4,12, 10, 12, 1004, 12, "Vinay", False, True, 69.69)
+print(a)
+print(type(a))
